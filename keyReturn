@@ -1,0 +1,8 @@
+local function getKeys()
+   local keys = {
+       "bruh",
+       "bruh2",
+       "bruh3"
+   } 
+   return keys
+end
